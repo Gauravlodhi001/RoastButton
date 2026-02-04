@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "dev": "cd roast-button && npm run dev",
+    "build": "cd roast-button && npm run build",
+    "lint": "cd roast-button && npm run lint",
+    "preview": "cd roast-button && npm run preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.24",
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^12.30.0",
+    "lucide-react": "^0.563.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}
